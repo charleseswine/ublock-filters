@@ -7,6 +7,6 @@ kansascity.com##html:style(overflow: visible !important)
 kansascity.com##amp-subscriptions-dialog
 kansascity.com##section[subscriptions-section=content]:style(display: block !important)
 
-google.com/search##html:style(overflow: visible !important)
-google.com/search##div[id=lb](visibility: hidden !important)
+google.com##:matches-path(/search) html:style(overflow: visible !important)
+google.com##:matches-path(/search) div[id=lb](visibility: hidden !important)
 
