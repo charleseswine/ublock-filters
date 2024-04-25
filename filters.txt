@@ -1,0 +1,12 @@
+gatherer.wizards.com##.gatherer-popup
+gatherer.wizards.com##.overly
+gatherer.wizards.com##body:style(overflow: visible !important)
+
+kansascity.com##mcc-paywall
+kansascity.com##html:style(overflow: visible !important)
+kansascity.com##amp-subscriptions-dialog
+kansascity.com##section[subscriptions-section=content]:style(display: block !important)
+
+google.com/search##html:style(overflow: visible !important)
+google.com/search##div[id=lb](visibility: hidden !important)
+
