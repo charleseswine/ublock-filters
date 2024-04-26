@@ -8,5 +8,5 @@ kansascity.com##amp-subscriptions-dialog
 kansascity.com##section[subscriptions-section=content]:style(display: block !important)
 
 google.com##html:style(overflow: visible !important)
-google.com##div[id=lb](display: none !important)
+google.com##div #lb[style="visibility: visible;"]
 
