@@ -10,3 +10,4 @@ kansascity.com##section[subscriptions-section=content]:style(display: block !imp
 google.com##html:style(overflow: visible !important)
 google.com##div #lb[style="visibility: visible;"]
 
+dev.to##.js-billboard-container
