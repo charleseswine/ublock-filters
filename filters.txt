@@ -11,3 +11,6 @@ google.com##html:style(overflow: visible !important)
 google.com##div #lb[style="visibility: visible;"]
 
 dev.to##.js-billboard-container
+
+medium.com##body:style(overflow: visible !important)
+medium.com##:xpath(//body[contains(@style,'overflow: hidden')]/div[.//text()[contains(., 'Be the first to hear')]]):style(display: none !important)
